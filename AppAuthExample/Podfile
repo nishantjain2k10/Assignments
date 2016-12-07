@@ -1,0 +1,3 @@
+target 'AppAuthExample' do
+pod 'AppAuth'
+end
